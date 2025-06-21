@@ -1,0 +1,30 @@
+/* Arimo */
+@font-face {
+  font-family: "Arimo";
+  src: url("../../../../g/fonts/arimo/arimo-r.eot");
+  src: url("../../../../g/fonts/arimo/arimo-r.eot%3F") format("embedded-opentype"), url("../../../../g/fonts/arimo/arimo-r.woff2") format("woff2"), url("../../../../g/fonts/arimo/arimo-r.woff") format("woff"), url("../../../../g/fonts/arimo/arimo-r.ttf") format("truetype"), url("../../../../g/fonts/arimo/arimo-r.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arimo";
+  src: url("../../../../g/fonts/arimo/arimo-i.eot");
+  src: url("../../../../g/fonts/arimo/arimo-i.eot%3F") format("embedded-opentype"), url("../../../../g/fonts/arimo/arimo-i.woff2") format("woff2"), url("../../../../g/fonts/arimo/arimo-i.woff") format("woff"), url("../../../../g/fonts/arimo/arimo-i.ttf") format("truetype"), url("../../../../g/fonts/arimo/arimo-i.svg") format("svg");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Arimo";
+  src: url("../../../../g/fonts/arimo/arimo-b.eot");
+  src: url("../../../../g/fonts/arimo/arimo-b.eot%3F") format("embedded-opentype"), url("../../../../g/fonts/arimo/arimo-b.woff2") format("woff2"), url("../../../../g/fonts/arimo/arimo-b.woff") format("woff"), url("../../../../g/fonts/arimo/arimo-b.ttf") format("truetype"), url("../../../../g/fonts/arimo/arimo-b.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arimo";
+  src: url("../../../../g/fonts/arimo/arimo-b-i.eot");
+  src: url("../../../../g/fonts/arimo/arimo-b-i.eot%3F") format("embedded-opentype"), url("../../../../g/fonts/arimo/arimo-b-i.woff2") format("woff2"), url("../../../../g/fonts/arimo/arimo-b-i.woff") format("woff"), url("../../../../g/fonts/arimo/arimo-b-i.ttf") format("truetype"), url("../../../../g/fonts/arimo/arimo-b-i.svg") format("svg");
+  font-weight: 700;
+  font-style: italic;
+}
+/* \Arimo */

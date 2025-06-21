@@ -1,0 +1,307 @@
+.fixed-tel-block, .fixed-adr-block, .fixed-search-block, .fixed-search-button, .mobile-logo, .another-5 {
+  display: none;
+}
+.another-5 p {
+  margin: 0;
+}
+@media (min-width: 961px) {
+  .widget-3, .widget-5 {
+    display: block;
+  }
+  .another-5 {
+    display: none !important;
+  }
+}
+@media (max-width: 960px) {
+  .block-3 {
+    min-height: 0;
+    height: 174px;
+    background: url(head-bg-new1.webp) 0 0 / cover no-repeat;
+  }
+  .widget-2 {
+    margin-top: 67px;
+    margin-left: -12px;
+  }
+  .sn-logo {
+    width: 338px;
+    height: 104px;
+    background: url(name1.png) 0 0 no-repeat;
+  }
+  .sn-logo img {
+    display: none;
+  }
+  .new-block {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 15px;
+    height: 35px;
+    z-index: 10;
+    background: rgba(255, 255, 255, 0.4);
+  }
+  .fixed-tel-block {
+    position: fixed;
+    display: block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background: url(tel-new.png) 0 0 no-repeat;
+    left: 67px;
+    top: 15px;
+    z-index: 10;
+  }
+  .fixed-adr-block {
+    position: fixed;
+    display: block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background: url(adr-new.png) 0 0 no-repeat;
+    left: 119px;
+    top: 15px;
+    z-index: 10;
+  }
+  .block-11 {
+    z-index: 100;
+  }
+  .s1 {
+    color: #016394;
+  }
+  .widget-3 {
+    position: fixed;
+    top: 50px;
+    left: 67px;
+    width: 130px;
+    padding: 8px 5px 7px 11px;
+    background: #dee7e6;
+    color: #000;
+    font: normal normal 13px Arial;
+    z-index: 1000001;
+    display: none;
+  }
+  .phones-6 .text_body {
+    color: #000;
+    font: normal normal 13px Arial;
+    text-align: left;
+    margin: 0;
+  }
+  .phones-6 .title {
+    color: #016394;
+    text-align: left;
+    font: normal normal 13px Arial;
+  }
+  .new-block-wr {
+    position: relative;
+    z-index: 999999;
+  }
+  .widget-20, .side-panel-27 .side-panel-top, .new-block {
+    z-index: auto;
+  }
+  .widget-5 {
+    position: fixed;
+    top: 50px;
+    left: 119px;
+    width: 180px;
+    padding: 8px 5px 7px 11px;
+    background: #dee7e6;
+    color: #000;
+    font: normal normal 13px Arial;
+    z-index: 1000001;
+    display: none;
+    margin: 0;
+    text-align: left;
+  }
+  .widget-5.email-8 {
+    display: none !important;
+  }
+  .email-8 .title {
+    color: #016394;
+    text-align: left;
+    font: normal normal 13px Arial;
+  }
+  .email-8 .text_body {
+    color: #000;
+    text-align: left;
+    font: normal normal 13px Arial;
+  }
+  .email-8 .inner {
+    display: block;
+  }
+  .head-button1 {
+    position: absolute;
+    top: 86px;
+    left: 364px;
+    width: 152px;
+    height: 25px;
+    background: url(new-but1.png) 0 0 no-repeat;
+    font-size: 0;
+    z-index: 3;
+  }
+  .head-button2 {
+    position: absolute;
+    top: 127px;
+    left: 364px;
+    width: 152px;
+    height: 25px;
+    background: url(new-but2.png) 0 0 no-repeat;
+    font-size: 0;
+    z-index: 3;
+  }
+  .widget-13, .widget-12 {
+    display: none;
+  }
+  .block-5 .layout_14 {
+    -ms-order: 0;
+    -moz-order: 0;
+    -webkit-order: 0;
+    order: 0;
+    position: relative;
+    z-index: 1;
+  }
+  .block-5 .layout_11_id_12 {
+    -ms-order: 1;
+    -moz-order: 1;
+    -webkit-order: 1;
+    order: 1;
+  }
+  .block-5 .layout_11_id_18, .block-5 .layout_11_id_12 {
+    padding-right: 10px;
+  }
+  .fixed-search-block {
+    position: fixed;
+    top: 15px;
+    left: 364px;
+    display: block;
+  }
+  .fixed-search-block form {
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    border-radius: 9px;
+    margin-top: 5px;
+  }
+  .fixed-search-block input[type="text"] {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0 0 1px 11px;
+    border: none;
+    background: none;
+    width: 110px;
+    color: #055b8c;
+    font: 14px Arial;
+    outline: none;
+    height: 22px;
+  }
+  .fixed-search-block input[type="submit"] {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    width: 27px;
+    height: 23px;
+    background: url(search-but-new.png) 0 0 no-repeat;
+    border: none;
+    outline: none;
+  }
+}
+@media (max-width: 529px) {
+  .menu-scroll {
+    padding: 20px 0;
+  }
+  .visib {
+    display: block;
+  }
+  .widget-2 {
+    width: 100%;
+    margin-right: 0;
+  }
+  .block-3 .layout_5 {
+    display: none;
+  }
+  .mobile-logo {
+    position: absolute;
+    display: block;
+    left: 5px;
+    right: 5px;
+    top: 50px;
+    background: url(new-logo2.webp) 50% 0 no-repeat;
+    height: 90px;
+  }
+  .mobile-logo img {
+    opacity: 0;
+  }
+  .side-panel-27 .side-panel-button {
+    margin-left: -10px;
+  }
+  .fixed-tel-block {
+    left: 57px;
+  }
+  .fixed-adr-block {
+    left: 109px;
+  }
+  .widget-3 {
+    left: 57px;
+  }
+  .widget-5 {
+    left: 109px;
+  }
+  .head-button1 {
+    position: absolute;
+    top: 153px;
+    left: -100px;
+    transform: translate(-50%, -50%);
+  }
+  .head-button2 {
+    position: absolute;
+    top: 153px;
+    left: 100px;
+    transform: translate(-50%, -50%);
+  }
+  .fixed-search-block {
+    left: 160px;
+    font-size: 0;
+  }
+  .fixed-search-block .fixed-search-button {
+    width: 35px;
+    height: 35px;
+    background: url(fixed-search-but.png) 0 0 no-repeat;
+    display: inline-block;
+  }
+  .fixed-search-block form {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 0 9px 9px 0;
+    border-left: none;
+    width: 0;
+    overflow: hidden;
+    border-color: #dee7e6;
+    margin-left: -2px;
+    -o-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+  }
+  .fixed-search-block form.opened {
+    width: 121px;
+    margin-left: 0;
+  }
+  .fixed-search-block form input[type="text"] {
+    width: 111px;
+  }
+  .fixed-search-block form input[type="submit"] {
+    position: absolute;
+    top: -6px;
+    height: 35px;
+    left: -35px;
+    background: none;
+    width: 35px;
+    z-index: 10;
+  }
+}
+@media (max-width: 640px) {
+  .block-3 .layout_31 {
+    display: block;
+  }
+}
